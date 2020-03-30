@@ -1,0 +1,8 @@
+POST http://192.150.254.152:8080/ESS/gjzw/v1/sealRecordService/test/downloadSeal?=
+Accept: */*
+Cache-Control: no-cache
+
+23000000001104
+
+###
+
